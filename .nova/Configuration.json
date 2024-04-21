@@ -3,12 +3,18 @@
 
   ],
   "eablokker.tabsSidebar.config.customKindGroupsOrder" : [
-    "astro"
+    "astro",
+    "markdown",
+    "json"
   ],
   "eablokker.tabsSidebar.config.customTabOrder" : [
     "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/pages\/index.astro",
     "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/pages\/blog.astro",
-    "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/pages\/about.astro"
+    "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/pages\/posts\/post-2.md",
+    "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/pages\/posts\/post-3.md",
+    "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/pages\/about.astro",
+    "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/.nova\/Configuration.json",
+    "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/pages\/posts\/post-1.md"
   ],
   "workspace.preview_append_paths" : false,
   "workspace.preview_type" : "custom",

@@ -6,6 +6,11 @@
     "astro"
   ],
   "eablokker.tabsSidebar.config.customTabOrder" : [
-    "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/pages\/index.astro"
-  ]
+    "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/pages\/index.astro",
+    "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/pages\/blog.astro",
+    "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/pages\/about.astro"
+  ],
+  "workspace.preview_append_paths" : false,
+  "workspace.preview_type" : "custom",
+  "workspace.preview_url" : "http:\/\/localhost:4321\/"
 }

@@ -5,7 +5,8 @@
   "eablokker.tabsSidebar.config.customKindGroupsOrder" : [
     "astro",
     "markdown",
-    "json"
+    "json",
+    "css"
   ],
   "eablokker.tabsSidebar.config.customTabOrder" : [
     "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/pages\/index.astro",
@@ -13,6 +14,7 @@
     "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/pages\/posts\/post-2.md",
     "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/pages\/posts\/post-3.md",
     "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/pages\/about.astro",
+    "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/styles\/global.css",
     "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/.nova\/Configuration.json",
     "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/pages\/posts\/post-1.md"
   ],

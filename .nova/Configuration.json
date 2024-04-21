@@ -5,18 +5,25 @@
   "eablokker.tabsSidebar.config.customKindGroupsOrder" : [
     "astro",
     "markdown",
-    "json",
-    "css"
+    "css",
+    "javascript"
   ],
   "eablokker.tabsSidebar.config.customTabOrder" : [
-    "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/pages\/index.astro",
     "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/pages\/blog.astro",
-    "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/pages\/posts\/post-2.md",
-    "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/pages\/posts\/post-3.md",
-    "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/pages\/about.astro",
+    "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/pages\/index.astro",
+    "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/layouts\/BaseLayout.astro",
+    "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/scripts\/menu.js",
+    "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/components\/Footer.astro",
+    "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/components\/Header.astro",
+    "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/components\/Social.astro",
+    "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/components\/Navigation.astro",
     "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/styles\/global.css",
-    "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/.nova\/Configuration.json",
-    "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/pages\/posts\/post-1.md"
+    "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/components\/Hamburger.astro",
+    "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/pages\/about.astro",
+    "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/layouts\/MarkdownPostLayout.astro",
+    "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/pages\/posts\/post-1.md",
+    "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/pages\/posts\/post-2.md",
+    "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/pages\/posts\/post-3.md"
   ],
   "workspace.preview_append_paths" : false,
   "workspace.preview_type" : "custom",

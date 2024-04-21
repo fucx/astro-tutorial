@@ -1,0 +1,11 @@
+{
+  "eablokker.tabsSidebar.config.collapsedFolders" : [
+
+  ],
+  "eablokker.tabsSidebar.config.customKindGroupsOrder" : [
+    "astro"
+  ],
+  "eablokker.tabsSidebar.config.customTabOrder" : [
+    "file:\/\/\/Users\/fucx\/Coding\/repos\/tutorial\/src\/pages\/index.astro"
+  ]
+}
